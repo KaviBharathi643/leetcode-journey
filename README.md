@@ -25,8 +25,8 @@ This repository is not just a collection of solutions—it's my personal learnin
 | Metric         | Progress    |
 | -------------- | ----------- |
 | Total Problems | 250         |
-| Solved         | 0           |
-| Remaining      | 250         |
+| Solved         | 2           |
+| Remaining      | 248         |
 | Current Day    | Day 1 / 150 |
 | Current Phase  | Phase 1     |
 | Current Topic  | Arrays      |
